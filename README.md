@@ -1,16 +1,2 @@
-# colors
-
-Random color generator
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_11](https://github.com/user-attachments/assets/8a0c3d3d-759c-4766-897b-69b111d69450)
+![photo_8](https://github.com/user-attachments/assets/034c83f9-2bb4-4bed-a6ec-bbc3f9b49146)
